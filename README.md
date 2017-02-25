@@ -4,7 +4,7 @@ NLP demo
 
 ## Usage
 
-Download `en-*` models from http://opennlp.sourceforge.net/models-1.5/ and put them in the `models` directory.
+Download `en-*` and `english-*` models from http://opennlp.sourceforge.net/models-1.5/ and put them in the `models` directory.
 
 ## License
 
